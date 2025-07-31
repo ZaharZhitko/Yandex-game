@@ -22,3 +22,16 @@
     justify-content: space-around;
     flex-wrap: wrap;
 }
+
+@media(min-width: 320px) {
+    .menu {
+        width: 100%;
+    }
+}
+
+
+@media(min-width: 800px) {
+    .menu {
+        width: 40%;
+    }
+}

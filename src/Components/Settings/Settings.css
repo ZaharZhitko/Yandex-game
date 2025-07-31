@@ -1,4 +1,7 @@
 .settings {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
     margin: 7.5% 0 0 0;
     width: 40%;
     height: 55%;
@@ -37,4 +40,37 @@ h3 {
     border: 0px;
     background-color: #fff;
     height: 5%;
+}
+
+@media(min-width: 320px) {
+    .settings {
+        margin: 25% 0 0 0;
+        width: 100%;
+    }
+    .closebtn {
+        font-size: 4vw;
+    }
+    h3 {
+        font-size: 2vw;
+    }
+    .settings-header {
+        font-size: 2vw;
+    }
+}
+
+
+@media(min-width: 800px) {
+    .settings {
+        margin: 7.5% 0 0 0;
+        width: 40%;
+    }
+    .closebtn {
+        font-size: 2vw;
+    }
+    h3 {
+        font-size: 1vw;
+    }
+    .settings-header {
+        font-size: 1vw;
+    }
 }

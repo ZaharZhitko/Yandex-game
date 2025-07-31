@@ -38,3 +38,21 @@
     width: 1.2%;
     height: 90%;
 }
+
+@media(min-width: 320px) {
+    .game {
+        width: 100%;
+    }
+    .board {
+        width: 95%;
+    }
+}
+
+@media(min-width: 800px) {
+    .game {
+        width: 90%;
+    }
+    .board {
+        width: 90%;
+    }
+}
