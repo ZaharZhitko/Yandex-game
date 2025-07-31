@@ -1,0 +1,40 @@
+.game {
+    background-color: #20bc4c;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 90%;
+    height: 70%;
+    margin: auto;
+    border: #590 solid 0.8svh;
+    border-radius: 2svh;
+}
+
+.board {
+    margin: 2.5% auto;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #dfe890;
+    border: 0.5svh solid #c7c266;
+    border-radius: 2svh;
+    height: 65%;
+    width: 90%;
+    text-align: top;
+}
+
+.buttons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 20%;
+}
+
+.wand {
+    display: flex;
+    flex-direction: column;
+    font-size: 1.8vh;
+    width: 1.2%;
+    height: 90%;
+}

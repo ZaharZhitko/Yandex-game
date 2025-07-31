@@ -1,0 +1,35 @@
+.custom-button-green {
+    font-family: "Comfortaa", sans-serif;
+    color: #fff;
+    font-size: 2.66vh;
+    font-weight: bold;
+    width: 40%;
+    height: 50%;
+    margin: 4% 0;
+    background-color: #53c951;
+    border: 0.4svh solid #3cab16;
+    border-radius: 2svh;
+}
+
+.custom-button-green:hover {
+    background-color: #3cab16;
+    transition: all 0.5s;
+}
+
+.custom-button-red {
+    font-family: "Comfortaa", sans-serif;
+    color: #fff;
+    font-size: 2.66vh;
+    font-weight: bold;
+    width: 40%;
+    height: 50%;
+    margin: 4% 0;
+    background-color: red;
+    border: 0.4svh solid #d00;
+    border-radius: 2svh;
+}
+
+.custom-button-red:hover {
+    background-color: #d00;
+    transition: all 0.5s;
+}

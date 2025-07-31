@@ -1,0 +1,25 @@
+.wand-def {
+    background-color: blue;
+    border-radius: 1.5svh;
+    width: 100%;
+    height: 90%;
+}
+
+.wand-def:hover {
+    background-color: red;
+    transition: all 0s;
+}
+
+.wand-sel {
+    background-color: red;
+    border-radius: 1.5svh;
+    width: 100%;
+    height: 90%;
+}
+
+.wand-dis {
+    background-color: #dfe890;
+    border-radius: 1.5svh;
+    width: 100%;
+    height: 90%;
+}

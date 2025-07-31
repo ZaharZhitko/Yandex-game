@@ -1,0 +1,40 @@
+.settings {
+    margin: 7.5% 0 0 0;
+    width: 40%;
+    height: 55%;
+    background-color: #fff;
+    border: 0.5vh solid #d11;
+    border-radius: 2svh;
+}
+
+h3 {
+    font-size: 2vh;
+}
+
+.settings-header {
+    font-size: 2vh;
+    text-wrap: wrap;
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+    width: 95%;
+}
+
+.slider-n, .slider-interval {
+    margin: 0 15%;
+    width: 70%;
+}
+
+.player-or-computer {
+    margin: auto;
+    width: 70%;
+}
+
+.closebtn {
+    font-size: 4vh;
+    border: 0px;
+    background-color: #fff;
+    height: 5%;
+}
