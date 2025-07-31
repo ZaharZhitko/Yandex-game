@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Yandex-game/static/css/main.c1118243.css",
+    "main.css": "/Yandex-game/static/css/main.4d96baa4.css",
     "main.js": "/Yandex-game/static/js/main.db03eeea.js",
     "index.html": "/Yandex-game/index.html",
-    "main.c1118243.css.map": "/Yandex-game/static/css/main.c1118243.css.map",
+    "main.4d96baa4.css.map": "/Yandex-game/static/css/main.4d96baa4.css.map",
     "main.db03eeea.js.map": "/Yandex-game/static/js/main.db03eeea.js.map"
   },
   "entrypoints": [
-    "static/css/main.c1118243.css",
+    "static/css/main.4d96baa4.css",
     "static/js/main.db03eeea.js"
   ]
 }
