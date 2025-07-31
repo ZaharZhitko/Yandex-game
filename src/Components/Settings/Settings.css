@@ -8,11 +8,11 @@
 }
 
 h3 {
-    font-size: 2vh;
+    font-size: 1vw;
 }
 
 .settings-header {
-    font-size: 2vh;
+    font-size: 1vw;
     text-wrap: wrap;
 }
 
@@ -33,7 +33,7 @@ h3 {
 }
 
 .closebtn {
-    font-size: 4vh;
+    font-size: 2vw;
     border: 0px;
     background-color: #fff;
     height: 5%;

@@ -34,7 +34,7 @@
 .wand {
     display: flex;
     flex-direction: column;
-    font-size: 1.8vh;
+    font-size: 1.2vw;
     width: 1.2%;
     height: 90%;
 }
